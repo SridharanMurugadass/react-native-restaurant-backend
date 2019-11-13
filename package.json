@@ -1,9 +1,9 @@
 {
-  "name": "express-mongoose-boilerplate",
-  "description": "A boilerplate application for express mongoose",
+  "name": "react-native-restaurant-backend",
+  "description": "application with express mongoose",
   "version": "1.0.0",
   "author": {
-    "name": "Codebrahma"
+    "name": "Sridharan Murugadass"
   },
   "engines": {
     "node": ">=6.x"
